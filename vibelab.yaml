@@ -18,7 +18,7 @@ version:
   notes: |-
     首次参赛版本：面对面交流 MR 原型，提供轮次转写、可能解读、回复建议和会话总结。API Key 改为运行时输入、仅进程内保留，不随源码或 APK 预置；面部裁剪云上传单独同意。请自备可用的智谱 API Key。本次配置界面的头显交互和新版本完整构建仍待验收。
 build:
-  repo_url: ""
+  repo_url: 'https://github.com/LIYOU-ara/between-us-pico'
   repo_visibility: private
   tech_stack: unity
   ai_tool: Codex
