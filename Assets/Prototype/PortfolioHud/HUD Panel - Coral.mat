@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HUD Panel - Coral
+  m_Shader: {fileID: 4800000, guid: 16f4049fe47047d5977a0f89b799b3d2, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Ints: []
+    m_Floats:
+    - _Aspect: 2.3472223
+    - _EdgeWidth: 0.0017
+    - _GlowStrength: 0.62
+    - _GlowWidth: 0.023
+    - _Opacity: 1
+    - _PulseStrength: 0.055
+    - _Radius: 0.065
+    - _ScanStrength: 0.035
+    - _ShowcaseTime: 7.4
+    - _SweepSpeed: 0.25
+    m_Colors:
+    - _AccentColor: {r: 1, g: 0.17, b: 0.24, a: 1}
+    - _FillColor: {r: 0.018, g: 0.012, b: 0.02, a: 0.86}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1

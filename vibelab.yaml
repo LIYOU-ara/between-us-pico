@@ -1,0 +1,27 @@
+app:
+  name: Between Us
+  slogan: 在面对面交流中，给回应留出思考的空间。
+  description: |-
+    【PICO Space Program 参赛作品】
+    Between Us 是一款用于面对面交流的混合现实实验原型。一人佩戴头显，另一人与其对话。系统按轮次转写双方实际说出的内容，为佩戴者提供可能的解读、澄清问题与表达个人需要的回复建议；使用者可以参考、改写或忽略这些建议。
+    AI 解读仅是有待核实的假设，不代表对方真实想法，也不用于诊断或判断人格。项目探索 AI 建议如何参与个人表达，以及它可能带来的帮助与分歧。
+    本版本面向 PICO 4 Ultra，需要联网、麦克风与相机权限。使用者须自行输入智谱 API Key，Key 只用于本次应用运行。语音和文本会发往智谱云端；单帧面部裁剪上传须单独同意，默认关闭。关闭视觉上传时仍会使用本地相机进行面部定位。请在双方同意后开始体验。
+  tags: [社交生活]
+  category: application
+  icon: ../assets/between-us-icon-1024x1024.png
+  landscape: ../assets/between-us-cover-2560x1440.png
+  detail_images:
+    - ../assets/between-us-intro-01-2560x1440.png
+  videos: []
+version:
+  name: "1.0"
+  notes: |-
+    首次参赛版本：面对面交流 MR 原型，提供轮次转写、可能解读、回复建议和会话总结。API Key 改为运行时输入、仅进程内保留，不随源码或 APK 预置；面部裁剪云上传单独同意。请自备可用的智谱 API Key。本次配置界面的头显交互和新版本完整构建仍待验收。
+build:
+  repo_url: ""
+  repo_visibility: private
+  tech_stack: unity
+  ai_tool: Codex
+  ai_model: GPT-6
+  features: [mixed_reality, controller_support]
+  teammates: []

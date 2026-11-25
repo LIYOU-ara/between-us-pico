@@ -1,0 +1,6 @@
+Kenney Furniture Kit
+Author: Kenney
+Source: https://kenney.nl/assets/furniture-kit
+Direct author download: https://kenney.nl/media/pages/assets/furniture-kit/440e0608a4-1677580847/kenney_furniture-kit.zip
+License: Creative Commons Zero (CC0), see Models/Kenney/License.txt.
+Only selected original OBJ/MTL models were imported. Materials will be replaced by the project translucent shader.

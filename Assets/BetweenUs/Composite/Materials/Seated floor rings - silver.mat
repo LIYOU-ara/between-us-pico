@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Seated floor rings - silver
+  m_Shader: {fileID: 4800000, guid: 1ebe6a61f683aeb4487869a22e559b30, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Ints: []
+    m_Floats:
+    - _CoreStrength: 0.18
+    - _DiscStrength: 0.003
+    - _GlowStrength: 0.26
+    - _GlowWidth: 0.16
+    - _Opacity: 0.6
+    - _PulseSpeed: 0.7
+    - _PulseStrength: 0.07
+    - _PulseTime: -1
+    - _Radius: 0.74
+    - _ShowcaseTime: 1070.2201
+    - _Softness: 1
+    - _Width: 0.013
+    m_Colors:
+    - _Color: {r: 1, g: 0.18, b: 0.25, a: 1}
+    - _RimColor: {r: 1, g: 0.4, b: 0.43, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1

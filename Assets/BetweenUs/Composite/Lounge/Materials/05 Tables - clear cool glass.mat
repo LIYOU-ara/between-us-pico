@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 05 Tables - clear cool glass
+  m_Shader: {fileID: 4800000, guid: 6950940220bc78b40b61e91aaca807cd, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2980
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Ints: []
+    m_Floats:
+    - _AccentStrength: 0.012
+    - _Cull: 2
+    - _FrostGrain: 0.001
+    - _Opacity: 0.24
+    - _RimPower: 3
+    - _RimStrength: 0.221
+    - _Roughness: 0.86
+    m_Colors:
+    - _AccentColor: {r: 0.8, g: 0.2, b: 0.24, a: 1}
+    - _Color: {r: 0.33600003, g: 0.39000002, b: 0.43800002, a: 1}
+    - _RimColor: {r: 0.87, g: 0.91, b: 0.98, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
